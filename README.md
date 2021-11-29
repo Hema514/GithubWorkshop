@@ -13,3 +13,20 @@
 [Google](https://www.google.com/)
 
 ![Github](https://i.ytimg.com/vi/hHbWF1Bvgf4/maxresdefault.jpg)
+
+* Colors
+  * Red
+  * Blue
+  * Green
+  * White
+  * Black
+
+1. Subjects
+    1. Maths
+    2. Telugu
+    3. English
+
+
+   
+   
+   
